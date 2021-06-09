@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dnerma
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Javascript, React, .NET
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on some real frontend projects.
 - 📫 How to reach me
 
